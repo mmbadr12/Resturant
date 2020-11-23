@@ -1,0 +1,27 @@
+.nameVang{
+color: rgb(248, 3, 3) !important ; 
+font-family: 'Lobster', cursive;
+font-size: 25px;
+}
+
+
+.View{
+width:100% !important;
+height: 400px !important; 
+position: relative !important;
+}
+
+.images{
+height:400px !important; 
+width: 100% !important;
+}
+
+.buttonHeader1{
+width: 150px;
+float: right;
+}
+    
+.buttonHeader2{
+width: 150px;
+float: right;    
+}
